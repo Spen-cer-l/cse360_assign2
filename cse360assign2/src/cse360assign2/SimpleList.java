@@ -56,6 +56,7 @@ public class SimpleList {
            System.out.println("Number removed");
        } else {
            System.out.println(num + " number not found");
+           System.out.println(num + " number not found!!");
        }
    }
 
@@ -66,7 +67,7 @@ public class SimpleList {
    public String toString() {
        String output = "";
        for (int i = 0; i < count; i++) {
-    	   output += list[i];
+    	   output += list[i]; 
            if (i != count - 1) {
         	   output += " ";
            }
