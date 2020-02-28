@@ -3,7 +3,8 @@
 //ASU ID: 1213764095
 //class id: 175
 //assignment 2: SimpleList.java
-
+//URL: https://github.com/Spen-cer-l/cse360_assign2.git
+//head: 4db2b886b0ea14d8540eafecf6443d2ae173a720
 
 package cse360assign2;
 
